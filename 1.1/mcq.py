@@ -29,6 +29,7 @@ print("DIGOLTECH PYTHON INTERNSHIP 2026")
 print("SECTION 1.1 - MCQ ANSWERS")
 print("-" * 35)
 
+
 for question, answer in answers.items():
     print(f"Question {question}: {answer}")
 
